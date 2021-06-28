@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdTrue Appodeal Demo</string>
+    <string name="initBannerSdkButton">Init Banners</string>
+    <string name="isBannerLoadedButton">Loaded?</string>
+    <string name="bannerShowButton">Show</string>
+    <string name="bannerHideButton">Hide</string>
+</resources>
